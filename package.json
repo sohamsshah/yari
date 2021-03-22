@@ -145,7 +145,7 @@
     "swr": "^0.5.4",
     "ts-loader": "^8.0.18",
     "typescript": "^4.2.3",
-    "use-debounce": "^5.2.1",
+    "use-debounce": "^6.0.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.5.0",
     "webpack-node-externals": "^2.5.2"
