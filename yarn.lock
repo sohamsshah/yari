@@ -1894,10 +1894,10 @@
   resolved "https://registry.yarnpkg.com/@mdn/dinocons/-/dinocons-0.3.0.tgz#2162eb6c12b36dd9bfc69f344d9150b4b5a3c9ad"
   integrity sha512-++oqKEzbWtc4DHELnS9R6HoGt+7AGRe2zlxTyk5YCSwouIIiI4DEGuoMCdtBCrZOoHtp2WHZ1mZ6BqEmQh8hLA==
 
-"@mdn/minimalist@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@mdn/minimalist/-/minimalist-0.8.0.tgz#e466fc2f7820eeb00dca1f4b41412f1a7ddf2d4b"
-  integrity sha512-VHKjKieSaXRtnm2UGX85TRUmCQNfRGQrhLATZLNzhfq8JizwFETDM0eNxGI+qPbMGG12Lbx6EAlbjdXT61/axQ==
+"@mdn/minimalist@^0.8.1":
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/@mdn/minimalist/-/minimalist-0.8.1.tgz#371c0bf78f2969d47e93297b401f49a531aa66de"
+  integrity sha512-+C1f7zJCUt+FO2ajXPan22/r7BKncOLVKbwtobxpL8aEYp0WygmbdF0ejHRucZOPchJMoB38+Xd82+PxfXaMvg==
 
 "@mdx-js/loader@^1.6.19":
   version "1.6.21"
