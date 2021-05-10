@@ -19,7 +19,7 @@ PyGithub = "^1.55"
 
 [tool.poetry.dev-dependencies]
 black = "^21.4b0"
-flake8 = "^3.9.1"
+flake8 = "^3.9.2"
 pytest = "^6.2.3"
 
 [tool.poetry.scripts]
