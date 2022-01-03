@@ -12,7 +12,7 @@ python = "^3.7"
 click = "^7.1.2"
 boto3 = "^1.17.105"
 python-decouple = "^3.4"
-requests = {extras = ["security"], version = "^2.25.0"}
+requests = {extras = ["security"], version = "^2.27.0"}
 elasticsearch-dsl = "^7.3.0"
 selectolax = "^0.2.12"
 PyGithub = "^1.55"
